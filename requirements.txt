@@ -1,4 +1,4 @@
-Here are the project requirements for your **Alpha Insurance Analysis** project:
+Here are the **Alpha Insurance Analysis**  project requirements:
 
 ### **1. Programming & Environment**  
 - Python (>=3.8)  
