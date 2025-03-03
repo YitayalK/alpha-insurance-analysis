@@ -4,3 +4,39 @@ Here are the project requirements for your **Alpha Insurance Analysis** project:
 - Python (>=3.8)  
 - Jupyter Notebook / Google Colab / Local Python Environment  
 - Virtual Environment (optional but recommended)  
+
+### **2. Required Libraries**  
+Make sure to install these dependencies before running the project:
+
+#### **Core Libraries**  
+- `numpy` – Numerical computing  
+- `pandas` – Data manipulation and analysis  
+- `matplotlib` – Basic plotting  
+- `seaborn` – Statistical data visualization  
+
+#### **Statistical Analysis**  
+- `scipy` – Hypothesis testing (t-test, z-test, chi-square test)  
+- `statsmodels` – Advanced statistical analysis  
+
+#### **Machine Learning Models**  
+- `scikit-learn` – Machine learning algorithms  
+  - Linear Regression  
+  - Random Forest Regressor  
+  - Train-test split, preprocessing  
+
+#### **Data Processing & Handling**  
+- `datetime` – Date handling  
+- `missingno` – Visualizing missing values (optional)  
+
+#### **Version Control & Reproducibility**  
+- `dvc` – Data Version Control  
+- `git` – Version control  
+
+---
+
+### **Installation**  
+Run the following command to install all dependencies:  
+
+```bash
+pip install numpy pandas matplotlib seaborn scipy statsmodels scikit-learn dvc
+```
